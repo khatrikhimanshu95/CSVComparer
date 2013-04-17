@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVComparer", "CSVComparer\CSVComparer.csproj", "{6C1730A7-5F56-4580-A26F-B1A2F806C9FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVReaderWriter", "..\CSVReaderWriter\CSVReaderWriter\CSVReaderWriter.csproj", "{0AB547DA-D9C2-40BB-B25D-3C252F0BA5C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVComparerConsole", "..\CSVComparerConsole\CSVComparerConsole\CSVComparerConsole.csproj", "{69E11EB5-B663-4E95-B6BB-D10B1B5A14B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C1730A7-5F56-4580-A26F-B1A2F806C9FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C1730A7-5F56-4580-A26F-B1A2F806C9FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C1730A7-5F56-4580-A26F-B1A2F806C9FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C1730A7-5F56-4580-A26F-B1A2F806C9FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AB547DA-D9C2-40BB-B25D-3C252F0BA5C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AB547DA-D9C2-40BB-B25D-3C252F0BA5C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AB547DA-D9C2-40BB-B25D-3C252F0BA5C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AB547DA-D9C2-40BB-B25D-3C252F0BA5C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69E11EB5-B663-4E95-B6BB-D10B1B5A14B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69E11EB5-B663-4E95-B6BB-D10B1B5A14B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69E11EB5-B663-4E95-B6BB-D10B1B5A14B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69E11EB5-B663-4E95-B6BB-D10B1B5A14B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
